@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Mar 31 11:17:57 2019
+# Process ID: 17744
+# Current directory: G:/ECN_104/Han_Carlson/Han_Carlson.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source G:/ECN_104/Han_Carlson/Han_Carlson.sim/sim_1/behav/xsim/xsim.dir/simu_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: G:/ECN_104/Han_Carlson/Han_Carlson.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: G:/ECN_104/Han_Carlson/Han_Carlson.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source G:/ECN_104/Han_Carlson/Han_Carlson.sim/sim_1/behav/xsim/xsim.dir/simu_behav/webtalk/xsim_webtalk.tcl -notrace
