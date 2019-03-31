@@ -1,3 +1,3 @@
 # Han-Carlson-Adder
-java code for printing verilog code of han carlson adder for n bits
-python script to directly write a verilog file in vivado
+Java code for printing verilog code of han carlson adder for n bits.
+Python script to directly write a verilog file in vivado
